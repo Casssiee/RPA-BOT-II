@@ -1,0 +1,11 @@
+==============================================================================
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves the order H...
+==============================================================================
+Order robots from RobotSpareBin Industries Inc                        | FAIL |
+ValueError: PDF 'c:\\Users\\sili7485\\OneDrive - The University of Sydney (Staff)\\Desktop\\II\\output\\order_nro_1.pdf' is not open
+------------------------------------------------------------------------------
+Tasks :: Orders robots from RobotSpareBin Industries Inc. Saves th... | FAIL |
+1 task, 0 passed, 1 failed
+==============================================================================
+Output:  c:\Users\sili7485\OneDrive - The University of Sydney (Staff)\Desktop\II\output\output.xml
+Log:     c:\Users\sili7485\OneDrive - The University of Sydney (Staff)\Desktop\II\output\log.html
