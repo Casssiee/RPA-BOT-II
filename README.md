@@ -1,6 +1,6 @@
 # Template: Standard Robot Framework
 
-Want to get started using [Robot Framework] to automate place orders and send receipts to clients.
+I want to get started using [Robot Framework] to automate place orders and send receipts to clients.
 
 The robot should use the orders file (.csv ) and complete all the orders in the file. (Only the robot is allowed to get the orders file.)
 
